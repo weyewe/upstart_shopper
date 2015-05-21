@@ -12,7 +12,7 @@ require 'mina/rbenv'  # for rbenv support. (http://rbenv.org)
 # https://github.com/weyewe/shopper-deployment.git
 
 set :domain, '128.199.148.227'
-set :deploy_to, '/var/www/sableng.com'
+set :deploy_to, '/var/www/designkomerz.com'
 set :repository, 'git://github.com/weyewe/upstart_shopper.git'
 set :branch, 'master'
 set :user , 'deployer'
